@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Technologies Used In The Project
+## Technologies Used In The Project
 ```
 ReactJS
 DaisyUI
